@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "288430736487",
+    "firebase_url": "https://ecommerce-app-ad576-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "ecommerce-app-ad576",
+    "storage_bucket": "ecommerce-app-ad576.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288430736487:android:83590d758e30dd823040c2",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBcu1JBi1vI21cRwc0eZaJpIq31pfO83Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288430736487:android:e33c1b4f14cbcb793040c2",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase_auth_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBcu1JBi1vI21cRwc0eZaJpIq31pfO83Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
